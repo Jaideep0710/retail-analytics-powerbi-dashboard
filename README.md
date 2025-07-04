@@ -1,8 +1,6 @@
 # retail-analytics-powerbi-dashboard
 📊 Retail Sales & Profit Analysis Dashboard – Power BI
 This project presents an interactive dashboard built in Power BI to analyze retail sales and profitability across various categories, regions, and time periods.
-![Uploading Screenshot 2025-07-04 163810.png…]()
-
 
 🔧 Features:
 📅 Filter by Year, State, and City
